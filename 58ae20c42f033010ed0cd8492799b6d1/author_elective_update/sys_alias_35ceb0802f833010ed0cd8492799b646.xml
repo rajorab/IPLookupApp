@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_624591_iplookup.GitHub_Credentials___rajorab</id>
+        <multiple_connections>false</multiple_connections>
+        <name>GitHub Credentials - rajorab</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-02 07:15:31</sys_created_on>
+        <sys_id>35ceb0802f833010ed0cd8492799b646</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_624591_iplookup.GitHub_Credentials___rajorab</sys_name>
+        <sys_package display_value="IPLookup" source="x_624591_iplookup">58ae20c42f033010ed0cd8492799b6d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">58ae20c42f033010ed0cd8492799b6d1</sys_scope>
+        <sys_update_name>sys_alias_35ceb0802f833010ed0cd8492799b646</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-02 07:15:31</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IPLookup">58ae20c42f033010ed0cd8492799b6d1</application>
+        <file_path/>
+        <instance_id>f3c2d105db869380cbf6d5b0cf96193f</instance_id>
+        <instance_name>dev59075</instance_name>
+        <name>sys_alias_35ceb0802f833010ed0cd8492799b646</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>http_connection</connection_type><id>x_624591_iplookup.GitHub_Credentials___rajorab</id><multiple_connections>false</multiple_connections><name>GitHub Credentials - rajorab</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-02 07:15:31</sys_created_on><sys_id>35ceb0802f833010ed0cd8492799b646</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_624591_iplookup.GitHub_Credentials___rajorab</sys_name><sys_package display_value="IPLookup" source="x_624591_iplookup">58ae20c42f033010ed0cd8492799b6d1</sys_package><sys_policy/><sys_scope display_value="IPLookup">58ae20c42f033010ed0cd8492799b6d1</sys_scope><sys_update_name>sys_alias_35ceb0802f833010ed0cd8492799b646</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-02 07:15:31</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>1479034193</payload_hash>
+        <record_name>x_624591_iplookup.GitHub_Credentials___rajorab</record_name>
+        <reverted_from/>
+        <source>14ae20c42f033010ed0cd8492799b6d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-02 07:15:31</sys_created_on>
+        <sys_id>73fe7c402f833010ed0cd8492799b6cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c3fdba49b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-02 07:15:31</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>bbfe7c40268330103d34b8205c1fcfcc</update_guid>
+        <update_guid_history>bbfe7c40268330103d34b8205c1fcfcc:1479034193</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-02 07:40:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>34b4d8bfb1bb4af894427250b6d12d10</sys_id>
+        <sys_metadata>35ceb0802f833010ed0cd8492799b646</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_624591_iplookup.GitHub_Credentials___rajorab</sys_name>
+        <sys_package display_value="IPLookup" source="x_624591_iplookup">58ae20c42f033010ed0cd8492799b6d1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">58ae20c42f033010ed0cd8492799b6d1</sys_scope>
+        <sys_scope_delete display_value="">6839de0c60f8412db1f3f71d692e7de1</sys_scope_delete>
+        <sys_update_name>sys_alias_35ceb0802f833010ed0cd8492799b646</sys_update_name>
+        <sys_update_version display_value="sys_alias_35ceb0802f833010ed0cd8492799b646">73fe7c402f833010ed0cd8492799b6cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-02 07:40:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
